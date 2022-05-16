@@ -110,19 +110,19 @@ body{
 }
 
 .color2{
-    background: #fcb1a0;
+    background: #afc7ff;
 }
 
 .color3{
-    background: #fcb1a0;
+    background: #e4b0fc;
 }
 
 .color4{
-    background: #fcb1a0;
+    background: #ff9fb5;
 }
 
 .color5{
-    background: #fcb1a0;
+    background: #90cad5;
 }
 
 .price{
@@ -145,4 +145,9 @@ body{
     font-size: 14px;
     padding: 12px 25px;
     border-radius: 6px;
+}
+
+.price a:hover{
+    background: rgb(100, 99, 99);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
